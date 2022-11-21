@@ -56,7 +56,7 @@
 
 <br>                                                                                                                                                 
 <a href="https://github.com/brijeshp1993">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshp1993&theme=shades-of-purple&layout=compact" 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshp1993&theme=shades-of-purple&layout=compact&count_private=true" 
     alt="Brijesh GitHub Top Languages" />
 </a>
 
