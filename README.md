@@ -3,6 +3,7 @@
 - 🌱  I’m currently learning Angular and Asp.net core
 - 🔭 I strive to improve myself every day
 - 📫 How to reach me: brijeshpatelce29@gmail.com
+- :closed_book: [Angular + AdminLTE + Dynamic Angular Architecture](https://github.com/brijeshp1993/Angular-AdminLTE)
 - :closed_book: [Find files from any folder in a seconds using .Net](https://github.com/brijeshp1993/get-all-files-from-folder)
 
 <hr>
